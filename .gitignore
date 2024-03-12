@@ -1,0 +1,27 @@
+# Eclipsegit
+.project
+.buildpath
+.settings
+Scripts
+/.dbeaver-data-sources.xml
+# Netbeans
+nbproject/*
+# Logs & dump
+*.log
+# Liens Symboliques
+# Temp
+*.bak
+# Fichiers compiles
+*.swf
+# Fichiers specifiques a chaque install
+param.xml
+lzl/param.xml
+# Fichiers specifiques a un utilisateur
+#Eclipse Synchro, laisser ces lignes à la fin du fichier ( très important )
+*.ptp-sync-folder
+/.ptp-sync/
+
+#VScode
+.vscode
+localtime
+.env
