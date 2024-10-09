@@ -13,3 +13,4 @@ apt install openssh-client
 
 # chmod +x update_sources.sh
 # sudo ./update_sources.sh
+# filetool.sh -b
