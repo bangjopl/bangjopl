@@ -11,6 +11,6 @@ apt upgrade -y
 apt install traceroute
 apt install openssh-client
 
-# chmod +x update_sources.sh
-# sudo ./update_sources.sh
+# chmod +x update.sh
+# sudo ./update.sh
 # filetool.sh -b
